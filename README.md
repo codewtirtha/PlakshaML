@@ -1,4 +1,6 @@
 # PlakshaML
+This repo includes assignments for the Machine Learning-1 course at the Tech Leaders Program at Plaksha University, where the following algorithms have been used to made predictions and extract meaning out of unstructured data.
+
 Linear Regression:
 Linear regression is a popular machine learning algorithm used to predict a continuous target variable based on one or more predictor variables. It works by fitting a linear equation to the data, which can then be used to make predictions. Linear regression is simple to understand and implement, making it a popular choice for many applications.
 
@@ -17,4 +19,3 @@ Decision Trees are a popular machine learning algorithm that can be used for bot
 K-Means Clustering:
 K-Means Clustering is an unsupervised learning algorithm that is used for clustering similar data points together. It works by partitioning the data into k clusters, where k is the number of clusters specified by the user. K-Means Clustering is widely used in image segmentation, customer segmentation, and anomaly detection.
 
-Test Commit
